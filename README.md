@@ -1,6 +1,7 @@
 ### Convert Images
 
-Currently only converts all ".jpg" or ".png" files in its directory into black and white and halves their size. Will include more functionality later.
+Currently only converts all ".jpg" or ".png" files in its directory into black and white and halves their size. Output will be in a new folder it creates called "output".
+Will include more functionality later.
 For now is a test ground of experimenting with Python Pillow package. 
 Also showcases my improvement in programming skill, the original code is commented out to be compared to.
 
